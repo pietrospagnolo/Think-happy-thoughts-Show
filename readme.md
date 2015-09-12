@@ -15,6 +15,6 @@ FaceOSC sends facial metrics via OSC using the ofxFaceTracker addon.
 [https://github.com/kylemcdonald/ofxFaceTracker/downloads]()
 
 
-## Lincese
+## License
 
 See the [LICENSE](license.md) file for license rights and limitations (CC).
