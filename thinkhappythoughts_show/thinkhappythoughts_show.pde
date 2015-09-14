@@ -1,7 +1,7 @@
 //////////////////////////////////////////////////////////////////////////////
 // Think happy thoughts - Show
 // 2013, Accademia di belle Arti di Urbino - Campivisivi
-// calzinispaiati.it
+// pietrospagnolo.it
 // ---------------------------------------------------------------------------
 // with the invaluable assistance of Giovanni Bedetti - giovannibedetti.com
 //////////////////////////////////////////////////////////////////////////////
@@ -62,7 +62,7 @@ void setup(){
 
 void draw(){
   background(241, 178, 54);
-  text("*Potrei avere dei problemi nel riconoscerti, se porti la barba, un folto ciuffo sul viso, degli occhiali o se il mio cane è più carino di te", width/2, 1000, 0);
+  text("*Potrei avere dei problemi nel riconoscerti se porti la barba, un folto ciuffo sul viso, degli occhiali o se il mio cane fosse più carino di te", width/2, 1000, 0);
   textFont(font, 12);
   textAlign(CENTER, CENTER);
   fill(74, 79, 79);
