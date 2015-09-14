@@ -62,7 +62,7 @@ void setup(){
 
 void draw(){
   background(241, 178, 54);
-  text("*Potrei avere dei problemi nel riconoscerti se porti la barba, un folto ciuffo sul viso, degli occhiali o se il mio cane fosse più carino di te", width/2, 1000, 0);
+  text("*Potrei avere dei problemi nel riconoscerti se porti la barba, un folto ciuffo sul viso o degli occhiali", width/2, 1000, 0);
   textFont(font, 12);
   textAlign(CENTER, CENTER);
   fill(74, 79, 79);
